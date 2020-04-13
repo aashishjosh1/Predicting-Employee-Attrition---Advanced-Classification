@@ -13,7 +13,7 @@ Employees are what makes or breaks the organization. With employee attrition, or
 ## Languages used: Python
 <br />
 <br />
-## Machine Learning Pipeline
+### Machine Learning Pipeline
 <br />
 <br />
 Importing all required libraries > Loading/Importing the dataset > Data Exploration > Feature Engineering > Splitting the data into training and test datasets > Model Development > Model Comparison/Interpreting the results
