@@ -11,3 +11,8 @@ Dataset - IBM HR Analytics - Attrition dataset
 <br />
 <br />
 Languages used: Python
+<br />
+<br />
+Machine learning/Data Science Pipeline¶
+<br />
+Importing all required libraries > Loading/Importing the dataset > Data Exploration > Feature Engineering > Splitting the data into training and test datasets > Model Development > Model Comparison/Interpreting the results
