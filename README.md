@@ -7,7 +7,7 @@ Employees are what makes or breaks the organization. With employee attrition, or
 <br />
 <br />
 Dataset - IBM HR Analytics - Attrition dataset
-Data source: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+<br />Data source: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 <br />
 <br />
 Languages used: Python
