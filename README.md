@@ -1,4 +1,4 @@
-# Predicting-Employee-Attrition---Advanced-Classification
+# Predicting-Employee-Attrition-ML Classification (V1)
 ## Introduction
 In this repository, our goal is to build a binary classification model that predicts if the employee will exit the company in the future.
 <br />
